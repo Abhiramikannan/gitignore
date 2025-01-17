@@ -1,0 +1,18 @@
+  git clone git@github.com:Abhiramikannan/gitignore.git
+  174  cd gitignore
+  175  touch file1.log
+  176  touch file2.;og
+  177  touch file2.log
+  178  touch file3.class
+  179  touch file4.txt
+  180  code .gitignore
+  181  git add .
+  182  ls
+  183  rm -rf file2.
+  184  ls
+  185  git add .
+  186  git commit -m "fles added'
+'
+"
+  187  git push
+  188  history
